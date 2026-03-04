@@ -1,9 +1,2 @@
 libgl1
-libglx-mesa0
-libsm6
-libxext6
-libxrender1
 libgomp1
-libgthread-2.0-0
-libxcb1
-libx11-6
