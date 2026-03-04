@@ -1,0 +1,760 @@
+[
+  {
+    "type": "realtime",
+    "timestamp": "2026-02-23T20:06:28.992366",
+    "data": {
+      "pose": 98.0,
+      "mental": 72.4,
+      "skin": 89.3,
+      "overall": 86.56666666666666
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-02-23T20:07:01.912342",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-02-23T20:07:01.911341",
+      "overall": {
+        "before": 70.1,
+        "after": 85.1,
+        "improvement": 15.0
+      },
+      "pose": {
+        "before": 97.8,
+        "after": 98.8,
+        "improvement": 1.0,
+        "details": {
+          "before": {
+            "shoulder_balance": 96.6,
+            "spine_verticality": 97.6,
+            "hip_alignment": 99.3,
+            "overall": 97.8
+          },
+          "after": {
+            "shoulder_balance": 98.6,
+            "spine_verticality": 99.7,
+            "hip_alignment": 98.0,
+            "overall": 98.8
+          }
+        }
+      },
+      "mental": {
+        "before": 51.8,
+        "after": 93.1,
+        "improvement": 41.3,
+        "details": {
+          "before": {
+            "fatigue_level": 33.4,
+            "stress_level": 0,
+            "relaxation_level": 0,
+            "facial_symmetry": 75.6,
+            "eye_openness": 6.78,
+            "overall": 51.8
+          },
+          "after": {
+            "fatigue_level": 0,
+            "stress_level": 0,
+            "relaxation_level": 100,
+            "facial_symmetry": 65.6,
+            "eye_openness": 6.79,
+            "overall": 93.1
+          }
+        }
+      },
+      "skin": {
+        "before": 60.8,
+        "after": 63.4,
+        "improvement": 2.6,
+        "details": {
+          "before": {
+            "brightness": 48.6,
+            "smoothness": 99.3,
+            "uniformity": 0,
+            "circulation": 94.2,
+            "hydration": 64.9,
+            "overall": 60.8
+          },
+          "after": {
+            "brightness": 61.2,
+            "smoothness": 99.5,
+            "uniformity": 0,
+            "circulation": 98.9,
+            "hydration": 56.0,
+            "overall": 63.4
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-02-24T11:20:57.016541",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-02-24T11:20:57.014263",
+      "overall": {
+        "before": 70.1,
+        "after": 85.1,
+        "improvement": 15.0
+      },
+      "pose": {
+        "before": 97.8,
+        "after": 98.8,
+        "improvement": 1.0,
+        "details": {
+          "before": {
+            "shoulder_balance": 96.6,
+            "spine_verticality": 97.6,
+            "hip_alignment": 99.3,
+            "overall": 97.8
+          },
+          "after": {
+            "shoulder_balance": 98.6,
+            "spine_verticality": 99.7,
+            "hip_alignment": 98.0,
+            "overall": 98.8
+          }
+        }
+      },
+      "mental": {
+        "before": 51.8,
+        "after": 93.1,
+        "improvement": 41.3,
+        "details": {
+          "before": {
+            "fatigue_level": 33.4,
+            "stress_level": 0,
+            "relaxation_level": 0,
+            "facial_symmetry": 75.6,
+            "eye_openness": 6.78,
+            "overall": 51.8
+          },
+          "after": {
+            "fatigue_level": 0,
+            "stress_level": 0,
+            "relaxation_level": 100,
+            "facial_symmetry": 65.6,
+            "eye_openness": 6.79,
+            "overall": 93.1
+          }
+        }
+      },
+      "skin": {
+        "before": 60.8,
+        "after": 63.4,
+        "improvement": 2.6,
+        "details": {
+          "before": {
+            "brightness": 48.6,
+            "smoothness": 99.3,
+            "uniformity": 0,
+            "circulation": 94.2,
+            "hydration": 64.9,
+            "overall": 60.8
+          },
+          "after": {
+            "brightness": 61.2,
+            "smoothness": 99.5,
+            "uniformity": 0,
+            "circulation": 98.9,
+            "hydration": 56.0,
+            "overall": 63.4
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-02-24T12:01:16.137669",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-02-24T12:01:16.135667",
+      "overall": {
+        "before": 70.9,
+        "after": 71.1,
+        "improvement": 0.2
+      },
+      "pose": {
+        "before": 98.7,
+        "after": 99.4,
+        "improvement": 0.7,
+        "details": {
+          "before": {
+            "shoulder_balance": 97.1,
+            "spine_verticality": 99.7,
+            "hip_alignment": 99.2,
+            "overall": 98.7
+          },
+          "after": {
+            "shoulder_balance": 99.5,
+            "spine_verticality": 98.9,
+            "hip_alignment": 99.8,
+            "overall": 99.4
+          }
+        }
+      },
+      "mental": {
+        "before": 50,
+        "after": 50,
+        "improvement": 0,
+        "details": {
+          "before": {},
+          "after": {}
+        }
+      },
+      "skin": {
+        "before": 64.0,
+        "after": 63.8,
+        "improvement": -0.2,
+        "details": {
+          "before": {
+            "brightness": 65.3,
+            "smoothness": 99.7,
+            "uniformity": 0,
+            "circulation": 87.3,
+            "hydration": 64.4,
+            "overall": 64.0
+          },
+          "after": {
+            "brightness": 64.0,
+            "smoothness": 99.8,
+            "uniformity": 0,
+            "circulation": 88.3,
+            "hydration": 63.8,
+            "overall": 63.8
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-02-24T12:02:06.248274",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-02-24T12:02:06.245961",
+      "overall": {
+        "before": 70.1,
+        "after": 85.1,
+        "improvement": 15.0
+      },
+      "pose": {
+        "before": 97.8,
+        "after": 98.8,
+        "improvement": 1.0,
+        "details": {
+          "before": {
+            "shoulder_balance": 96.6,
+            "spine_verticality": 97.6,
+            "hip_alignment": 99.3,
+            "overall": 97.8
+          },
+          "after": {
+            "shoulder_balance": 98.6,
+            "spine_verticality": 99.7,
+            "hip_alignment": 98.0,
+            "overall": 98.8
+          }
+        }
+      },
+      "mental": {
+        "before": 51.8,
+        "after": 93.1,
+        "improvement": 41.3,
+        "details": {
+          "before": {
+            "fatigue_level": 33.4,
+            "stress_level": 0,
+            "relaxation_level": 0,
+            "facial_symmetry": 75.6,
+            "eye_openness": 6.78,
+            "overall": 51.8
+          },
+          "after": {
+            "fatigue_level": 0,
+            "stress_level": 0,
+            "relaxation_level": 100,
+            "facial_symmetry": 65.6,
+            "eye_openness": 6.79,
+            "overall": 93.1
+          }
+        }
+      },
+      "skin": {
+        "before": 60.8,
+        "after": 63.4,
+        "improvement": 2.6,
+        "details": {
+          "before": {
+            "brightness": 48.6,
+            "smoothness": 99.3,
+            "uniformity": 0,
+            "circulation": 94.2,
+            "hydration": 64.9,
+            "overall": 60.8
+          },
+          "after": {
+            "brightness": 61.2,
+            "smoothness": 99.5,
+            "uniformity": 0,
+            "circulation": 98.9,
+            "hydration": 56.0,
+            "overall": 63.4
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-02-24T12:42:22.833545",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-02-24T12:42:22.832544",
+      "overall": {
+        "before": 78.2,
+        "after": 71.5,
+        "improvement": -6.7
+      },
+      "pose": {
+        "before": 97.8,
+        "after": 98.8,
+        "improvement": 1.0,
+        "details": {
+          "before": {
+            "shoulder_balance": 96.6,
+            "spine_verticality": 97.6,
+            "hip_alignment": 99.3,
+            "overall": 97.8
+          },
+          "after": {
+            "shoulder_balance": 98.6,
+            "spine_verticality": 99.7,
+            "hip_alignment": 98.0,
+            "overall": 98.8
+          }
+        }
+      },
+      "mental": {
+        "before": 76.0,
+        "after": 51.5,
+        "improvement": -24.5,
+        "details": {
+          "before": {
+            "fatigue_level": 67.9,
+            "stress_level": 0,
+            "relaxation_level": 100,
+            "facial_symmetry": 75.6,
+            "eye_openness": 0.214,
+            "overall": 76.0
+          },
+          "after": {
+            "fatigue_level": 51.9,
+            "stress_level": 13.5,
+            "relaxation_level": 5.1,
+            "facial_symmetry": 65.6,
+            "eye_openness": 0.246,
+            "overall": 51.5
+          }
+        }
+      },
+      "skin": {
+        "before": 60.8,
+        "after": 64.3,
+        "improvement": 3.5,
+        "details": {
+          "before": {
+            "brightness": 48.6,
+            "smoothness": 99.3,
+            "uniformity": 0,
+            "circulation": 94.2,
+            "hydration": 64.9,
+            "overall": 60.8
+          },
+          "after": {
+            "brightness": 61.2,
+            "smoothness": 99.5,
+            "uniformity": 4.7,
+            "circulation": 98.9,
+            "hydration": 56.0,
+            "overall": 64.3
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-02-24T12:44:08.826155",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-02-24T12:44:08.824122",
+      "overall": {
+        "before": 73.1,
+        "after": 73.1,
+        "improvement": -0.0
+      },
+      "pose": {
+        "before": 98.7,
+        "after": 99.4,
+        "improvement": 0.7,
+        "details": {
+          "before": {
+            "shoulder_balance": 97.1,
+            "spine_verticality": 99.7,
+            "hip_alignment": 99.2,
+            "overall": 98.7
+          },
+          "after": {
+            "shoulder_balance": 99.5,
+            "spine_verticality": 98.9,
+            "hip_alignment": 99.8,
+            "overall": 99.4
+          }
+        }
+      },
+      "mental": {
+        "before": 50,
+        "after": 50,
+        "improvement": 0,
+        "details": {
+          "before": {},
+          "after": {}
+        }
+      },
+      "skin": {
+        "before": 70.7,
+        "after": 69.9,
+        "improvement": -0.8,
+        "details": {
+          "before": {
+            "brightness": 65.3,
+            "smoothness": 99.7,
+            "uniformity": 33.3,
+            "circulation": 87.3,
+            "hydration": 64.4,
+            "overall": 70.7
+          },
+          "after": {
+            "brightness": 64.0,
+            "smoothness": 99.8,
+            "uniformity": 30.4,
+            "circulation": 88.3,
+            "hydration": 63.8,
+            "overall": 69.9
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-02-24T12:44:50.311843",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-02-24T12:44:50.310699",
+      "overall": {
+        "before": 71.5,
+        "after": 78.2,
+        "improvement": 6.7
+      },
+      "pose": {
+        "before": 98.8,
+        "after": 97.8,
+        "improvement": -1.0,
+        "details": {
+          "before": {
+            "shoulder_balance": 98.6,
+            "spine_verticality": 99.7,
+            "hip_alignment": 98.0,
+            "overall": 98.8
+          },
+          "after": {
+            "shoulder_balance": 96.6,
+            "spine_verticality": 97.6,
+            "hip_alignment": 99.3,
+            "overall": 97.8
+          }
+        }
+      },
+      "mental": {
+        "before": 51.5,
+        "after": 76.0,
+        "improvement": 24.5,
+        "details": {
+          "before": {
+            "fatigue_level": 51.9,
+            "stress_level": 13.5,
+            "relaxation_level": 5.1,
+            "facial_symmetry": 65.6,
+            "eye_openness": 0.246,
+            "overall": 51.5
+          },
+          "after": {
+            "fatigue_level": 67.9,
+            "stress_level": 0,
+            "relaxation_level": 100,
+            "facial_symmetry": 75.6,
+            "eye_openness": 0.214,
+            "overall": 76.0
+          }
+        }
+      },
+      "skin": {
+        "before": 64.3,
+        "after": 60.8,
+        "improvement": -3.5,
+        "details": {
+          "before": {
+            "brightness": 61.2,
+            "smoothness": 99.5,
+            "uniformity": 4.7,
+            "circulation": 98.9,
+            "hydration": 56.0,
+            "overall": 64.3
+          },
+          "after": {
+            "brightness": 48.6,
+            "smoothness": 99.3,
+            "uniformity": 0,
+            "circulation": 94.2,
+            "hydration": 64.9,
+            "overall": 60.8
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-02-24T12:47:20.506372",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-02-24T12:47:20.504382",
+      "overall": {
+        "before": 73.1,
+        "after": 73.1,
+        "improvement": -0.0
+      },
+      "pose": {
+        "before": 98.7,
+        "after": 99.4,
+        "improvement": 0.7,
+        "details": {
+          "before": {
+            "shoulder_balance": 97.1,
+            "spine_verticality": 99.7,
+            "hip_alignment": 99.2,
+            "overall": 98.7
+          },
+          "after": {
+            "shoulder_balance": 99.5,
+            "spine_verticality": 98.9,
+            "hip_alignment": 99.8,
+            "overall": 99.4
+          }
+        }
+      },
+      "mental": {
+        "before": 50,
+        "after": 50,
+        "improvement": 0,
+        "details": {
+          "before": {},
+          "after": {}
+        }
+      },
+      "skin": {
+        "before": 70.7,
+        "after": 69.9,
+        "improvement": -0.8,
+        "details": {
+          "before": {
+            "brightness": 65.3,
+            "smoothness": 99.7,
+            "uniformity": 33.3,
+            "circulation": 87.3,
+            "hydration": 64.4,
+            "overall": 70.7
+          },
+          "after": {
+            "brightness": 64.0,
+            "smoothness": 99.8,
+            "uniformity": 30.4,
+            "circulation": 88.3,
+            "hydration": 63.8,
+            "overall": 69.9
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-03-04T09:14:47.643772",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-03-04T09:14:47.641773",
+      "overall": {
+        "before": 78.2,
+        "after": 71.5,
+        "improvement": -6.7
+      },
+      "pose": {
+        "before": 97.8,
+        "after": 98.8,
+        "improvement": 1.0,
+        "details": {
+          "before": {
+            "shoulder_balance": 96.6,
+            "spine_verticality": 97.6,
+            "hip_alignment": 99.3,
+            "overall": 97.8
+          },
+          "after": {
+            "shoulder_balance": 98.6,
+            "spine_verticality": 99.7,
+            "hip_alignment": 98.0,
+            "overall": 98.8
+          }
+        }
+      },
+      "mental": {
+        "before": 76.0,
+        "after": 51.5,
+        "improvement": -24.5,
+        "details": {
+          "before": {
+            "fatigue_level": 67.9,
+            "stress_level": 0,
+            "relaxation_level": 100,
+            "facial_symmetry": 75.6,
+            "eye_openness": 0.214,
+            "overall": 76.0
+          },
+          "after": {
+            "fatigue_level": 51.9,
+            "stress_level": 13.5,
+            "relaxation_level": 5.1,
+            "facial_symmetry": 65.6,
+            "eye_openness": 0.246,
+            "overall": 51.5
+          }
+        }
+      },
+      "skin": {
+        "before": 60.8,
+        "after": 64.3,
+        "improvement": 3.5,
+        "details": {
+          "before": {
+            "brightness": 48.6,
+            "smoothness": 99.3,
+            "uniformity": 0,
+            "circulation": 94.2,
+            "hydration": 64.9,
+            "overall": 60.8
+          },
+          "after": {
+            "brightness": 61.2,
+            "smoothness": 99.5,
+            "uniformity": 4.7,
+            "circulation": 98.9,
+            "hydration": 56.0,
+            "overall": 64.3
+          }
+        }
+      }
+    }
+  },
+  {
+    "type": "comparison",
+    "timestamp": "2026-03-04T15:08:52.619044",
+    "data": {
+      "active": true,
+      "detailed": true,
+      "timestamp": "2026-03-04T15:08:52.618019",
+      "overall": {
+        "before": 71.5,
+        "after": 78.2,
+        "improvement": 6.7
+      },
+      "pose": {
+        "before": 98.8,
+        "after": 97.8,
+        "improvement": -1.0,
+        "details": {
+          "before": {
+            "shoulder_balance": 98.6,
+            "spine_verticality": 99.7,
+            "hip_alignment": 98.0,
+            "overall": 98.8
+          },
+          "after": {
+            "shoulder_balance": 96.6,
+            "spine_verticality": 97.6,
+            "hip_alignment": 99.3,
+            "overall": 97.8
+          }
+        }
+      },
+      "mental": {
+        "before": 51.5,
+        "after": 76.0,
+        "improvement": 24.5,
+        "details": {
+          "before": {
+            "fatigue_level": 51.9,
+            "stress_level": 13.5,
+            "relaxation_level": 5.1,
+            "facial_symmetry": 65.6,
+            "eye_openness": 0.246,
+            "overall": 51.5
+          },
+          "after": {
+            "fatigue_level": 67.9,
+            "stress_level": 0,
+            "relaxation_level": 100,
+            "facial_symmetry": 75.6,
+            "eye_openness": 0.214,
+            "overall": 76.0
+          }
+        }
+      },
+      "skin": {
+        "before": 64.3,
+        "after": 60.8,
+        "improvement": -3.5,
+        "details": {
+          "before": {
+            "brightness": 61.2,
+            "smoothness": 99.5,
+            "uniformity": 4.7,
+            "circulation": 98.9,
+            "hydration": 56.0,
+            "overall": 64.3
+          },
+          "after": {
+            "brightness": 48.6,
+            "smoothness": 99.3,
+            "uniformity": 0,
+            "circulation": 94.2,
+            "hydration": 64.9,
+            "overall": 60.8
+          }
+        }
+      }
+    }
+  }
+]
