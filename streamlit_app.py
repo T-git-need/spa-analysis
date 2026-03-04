@@ -367,22 +367,24 @@ st.markdown("""
 # 初始化 MediaPipe
 class RealtimeAnalyzer:
     def __init__(self):
-        self.mp_pose = mp.solutions.pose
-        self.mp_face_mesh = mp.solutions.face_mesh
-        self.mp_drawing = mp.solutions.drawing_utils
-
-        self.pose = self.mp_pose.Pose(
+        import mediapipe as mp
+        from mediapipe.python.solutions import pose as mp_pose
+        from mediapipe.python.solutions import face_mesh as mp_face_mesh
+        from mediapipe.python.solutions import drawing_utils as mp_drawing
+        
+        self.pose = mp_pose.Pose(
             static_image_mode=True,
             model_complexity=1,
             min_detection_confidence=0.5
         )
-        self.face_mesh = self.mp_face_mesh.FaceMesh(
+        self.face_mesh = mp_face_mesh.FaceMesh(
             static_image_mode=True,
             max_num_faces=1,
             refine_landmarks=True,
             min_detection_confidence=0.5
         )
-
+        self.mp_drawing = mp_drawing
+        
         self.history = {
             'pose': deque(maxlen=20),
             'mental': deque(maxlen=20),
