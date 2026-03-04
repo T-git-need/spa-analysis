@@ -787,7 +787,6 @@ class RealtimeAnalyzer:
 @st.cache_resource
 def get_analyzer():
     return RealtimeAnalyzer()
-
 analyzer = get_analyzer()
 
 # ========== 侧边栏 ==========
