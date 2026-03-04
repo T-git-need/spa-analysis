@@ -1,6 +1,6 @@
 # 核心计算机视觉（必须）
 mediapipe>=0.10.9
-opencv-python>=4.8.0.76
+opencv-python-headless>=4.8.0.76
 # 数值/科学计算（必须）
 numpy>=1.26.0
 scipy>=1.11.4
