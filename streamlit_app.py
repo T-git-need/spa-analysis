@@ -404,7 +404,7 @@ class RealtimeAnalyzer:
             pose_score = self._calc_pose_score(pose_results.pose_landmarks, w, h)
             self.mp_drawing.draw_landmarks(
                 frame, pose_results.pose_landmarks,
-                self.mp_pose.POSE_CONNECTIONS
+                mp_pose.POSE_CONNECTIONS
             )
 
         face_results = self.face_mesh.process(rgb)
@@ -447,7 +447,7 @@ class RealtimeAnalyzer:
             pose_data = self._calc_pose_detailed(pose_results.pose_landmarks, w, h)
             self.mp_drawing.draw_landmarks(
                 frame, pose_results.pose_landmarks,
-                self.mp_pose.POSE_CONNECTIONS
+                mp_pose.POSE_CONNECTIONS
             )
 
         face_results = self.face_mesh.process(rgb)
